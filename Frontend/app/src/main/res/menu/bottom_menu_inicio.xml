@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/Support"
+        android:enabled="true"
+        android:icon="@drawable/baseline_contact_support_24"
+        android:iconTint="#FFFFFF"
+        android:title="Soporte"
+        android:visible="true" />
+    <item
+        android:id="@+id/Recycle"
+        android:enabled="true"
+        android:icon="@drawable/outline_recycling_24"
+        android:iconTint="#FFFFFF"
+        android:title="Reciclaje"
+        android:visible="true" />
+    <item
+        android:id="@+id/Home"
+        android:enabled="true"
+        android:icon="@drawable/baseline_home_24"
+        android:iconTint="#FFFFFF"
+        android:title="Inicio"
+        android:visible="true" />
+    <item
+        android:id="@+id/News"
+        android:enabled="true"
+        android:icon="@drawable/baseline_article_24"
+        android:iconTint="#FFFFFF"
+        android:title="Noticias"
+        android:visible="true" />
+    <item
+        android:id="@+id/Account"
+        android:enabled="true"
+        android:icon="@drawable/round_manage_accounts_24"
+        android:iconTint="#FFFFFF"
+        android:title="Perfil"
+        android:visible="true" />
+</menu>

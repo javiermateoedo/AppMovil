@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="musgo"></color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color> <!-- Blanco puro -->
+    <color name="ivory">#FFFFFFF0</color> <!-- Marfil -->
+    <color name="floral_white">#FFFFFAF0</color> <!-- Blanco floral -->
+    <color name="lime_green">#FF00FF00</color> <!-- Verde Lima -->
+    <color name="light_green">#FF90EE90</color> <!-- Verde Claro -->
+    <color name="sea_green">#FF2E8B57</color> <!-- Verde Marino -->
+    <color name="dark_green">#FF006400</color> <!-- Verde Oscuro -->
+    <color name="lavender">#FFB57EDC</color> <!-- Lavanda -->
+    <color name="purple">#FF800080</color> <!-- Púrpura -->
+    <color name="light_purple">#FFBA55D3</color> <!-- Púrpura Claro -->
+    <color name="dark_purple">#FF4B0082</color> <!-- Púrpura Oscuro -->
+    <color name="medium_purple">#FF9370DB</color> <!-- Púrpura Medio -->
+    <color name="dark_olive_green">#FF556B2F</color> <!-- Verde Oliva Oscuro -->
+</resources>

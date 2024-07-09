@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape xmlns:android="http://schemas.android.com/apk/res/android"
+    android:shape="rectangle">
+    <!-- Configura el color del borde y su anchura -->
+    <stroke
+        android:width="4dp"
+        android:color="@color/dark_olive_green" /> <!-- Cambia light_green al color verde clarito que desees -->
+    <!-- Configura el color de fondo del RelativeLayout -->
+    <solid android:color="@color/sea_green" /> <!-- Transparente para que el color de fondo del RelativeLayout se muestre -->
+    <!-- Configura el radio de la esquina para hacerlo redondeado -->
+    <corners android:radius="20dp" /> <!-- Ajusta el radio según sea necesario -->
+</shape>

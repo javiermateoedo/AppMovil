@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/backgroundlogin"
+    tools:context=".LoginActivity">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/signin"
+        android:text="@string/SignIn"
+        android:textColor="@android:color/transparent"
+        android:textSize="35sp"
+        android:textStyle="bold"
+        android:layout_margin="50dp"
+        android:gravity="center"/>
+
+    <ImageView
+        android:id="@+id/logopr"
+        android:layout_width="170dp"
+        android:layout_height="240dp"
+        android:layout_below="@+id/signin"
+        android:layout_centerHorizontal="true"
+        android:layout_marginStart="30dp"
+        android:layout_marginLeft="30dp"
+        android:layout_marginTop="30dp"
+        android:layout_marginEnd="30dp"
+        android:layout_marginRight="30dp"
+        android:layout_marginBottom="30dp"
+        android:src="@drawable/plasticrangers"
+        android:contentDescription="@string/PlasticRangers" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/logopr"
+        android:id="@+id/SocialIcons"
+        android:gravity="center" >
+
+        <ImageView
+            android:id="@+id/google_btn"
+            android:layout_width="wrap_content"
+            android:layout_height="94dp"
+            android:layout_margin="20dp"
+            android:backgroundTint="@color/white"
+            android:contentDescription="@string/Google"
+
+            android:src="@drawable/google_signin_button" />
+
+    </LinearLayout>
+</RelativeLayout>

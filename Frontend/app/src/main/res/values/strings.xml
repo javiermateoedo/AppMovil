@@ -1,0 +1,59 @@
+<resources>
+    <string name="app_name">Frontend</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="intro">Bienvenidos a PlasticRangers, una comunidad dedicada a la lucha contra la contaminación del plástico en los océanos y zonas costeras.</string>
+    <string name="intro2">Promovemos el reciclaje y la reducción de residuos como medidas para reducir la cantidad de plástico que llega a los ecosistemas y daña su biodiversidad. </string>
+    <string name="intro3">PlasticRangers es una iniciativa valiosa para proteger nuestro planeta.\n\n<b><i>¡Juntos podemos marcar la diferencia!</i></b></string>
+    <string name="mareaBlanca">Marea blanca de plástico en Galicia</string>
+    <string name="granjas">Granja, huerta ecológica y bioconstrucción en Córdoba</string>
+    <string name="sanJuan">Las playas de Málaga vuelven a la normalidad</string>
+    <string name="top5">España ya está entre los diez países que más envases reciclan</string>
+    <string name="desctop5">España se encuentra actualmente entre los diez países que más envases reciclan. Sin embargo, el objetivo (y la ambición) es mayor: estar entre los cinco primeros. Por ello, Ecoembes ha reunido en la tarde de este martes en Madrid a expertos de diferentes ámbitos para conseguir que esto sea una realidad. Con Circularity Day quieren mostrar su compromiso por un futuro sin residuos.  </string>
+    <string name="descsanJuan">Las playas de Málaga vuelven a la normalidad tras retirar 34,7 toneladas de basura en la noche de San Juan. La celebración de San Juan hizo vivir a malagueños y visitantes una noche mágica a orillas del mar pero, como ocurre cada año, también ha dejado un manto de basura sobre la arena. Las playas de Málaga han pasado de reunir a miles de personas en torno a las hogueras, moragas y rituales, a amanecer repletas de botellas, plásticos y bolsas, entre otros.</string>
+    <string name="descGranjas">En el corazón de Córdoba, un innovador proyecto de granja y huerta ecológica junto con iniciativas de bioconstrucción está marcando un cambio significativo hacia prácticas más sostenibles. Este proyecto no solo busca revitalizar la agricultura local con métodos orgánicos y sostenibles, sino también integrar construcciones que respetan el ambiente, demostrando el compromiso de la comunidad con el futuro del planeta.</string>
+    <string name="descMarea">Una vez más, Galicia está viviendo un desastre ecológico en sus costas. Millones de bolitas de plástico (pellets) llevan semanas inundando y contaminando el ecosistema marino de gran parte del litoral gallego. En ocasiones están llegando sacos completos, que si se detectan pueden recogerse con facilidad, pero lo peor es que muchos ya han roto y millones de pellets se diseminan por la columna de agua llegando a las playas con cada marea.</string>
+    <string name="link">Link</string>
+    <string name="verNoticia">Ver Noticia</string>
+    <string name="linkMarea">https://es.greenpeace.org/es/noticias/marea-blanca-de-plastico-en-galicia/</string>
+    <string name="linkGranjas">https://www.worldpackers.com/es/positions/65270</string>
+    <string name="linkSanJuan">https://www.europapress.es/andalucia/malaga-00356/noticia-playas-malaga-vuelven-normalidad-quedar-repletas-basura-noche-san-juan-20230624124106.html</string>
+    <string name="linkTop5">https://www.lasexta.com/noticias/sociedad/espana-esta-diez-paises-que-mas-envases-reciclan-quiere-llegar-top-5_2024020665c2aea4361b910001050600.html</string>
+    <string name="soporteIntro">Ponte en contacto con nosotros en caso de algún problema</string>
+    <string name="insertEmail">Inserte aquí su email</string>
+    <string name="editText">Describe el problema que ocurre</string>
+    <string name="send">Enviar</string>
+    <string name="supportText">En PlasticRangers, estamos aquí para ayudarte. Puedes contactarnos de lunes a sábado de 9:00 a.m. a 5:00 p.m. Estamos comprometidos a resolver tus inquietudes y problemas de la manera más eficiente posible. ¡Gracias por elegirnos!</string>
+    <string name="material1">Plástico</string>
+    <string name="material2">Papel y Cartón</string>
+    <string name="material3">Metal</string>
+    <string name="material4">Vidrio</string>
+    <string name="puntos">PUNTOS</string>
+    <string name="plasticoPuntos"><i>2 puntos</i></string>
+    <string name="papelPuntos"><i>4 puntos</i></string>
+    <string name="vidrioPuntos"><i>3 puntos</i></string>
+    <string name="metalPuntos"><i>5 puntos</i></string>
+    <!-- strings que uso en el login -->
+    <string name="SignIn">Sign In</string>
+    <string name="Username">Username</string>
+    <string name="Password">Password</string>
+    <string name="Login">LOGIN</string>
+    <string name="ForgotPassword">Forgot Password?</string>
+    <string name="Others">Sign in</string>
+    <string name="Google">Logo Google</string>
+    <!-- strings que uso en el profile -->
+    <string name="Profile">Profile</string>
+    <string name="Photo">Foto de perfil</string>
+    <string name="UsuarioT">Nombre de usuario:</string>
+    <string name="Usuario">Antonio</string>
+    <string name="EmailT">Email:</string>
+    <string name="Email">aserra715@gmail.com</string>
+    <string name="PuntosT">Puntos:</string>
+    <string name="Puntos">90</string>
+    <string name="PlasticRangers">Logo Aplicacion</string>
+    <string name="client_id">573351596091-grgacsmvi7emb7pg6gungo79jdedffbl.apps.googleusercontent.com</string>
+    <string name="cerrarSesion">cierra la sesion</string>
+    <string name="canjear">Canjear puntos</string>
+    <string name="insertarNumero">Inserte su numero de telefono</string>
+
+</resources>
